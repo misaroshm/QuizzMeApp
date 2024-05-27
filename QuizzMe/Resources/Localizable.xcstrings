@@ -1,0 +1,37 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$lld"
+          }
+        }
+      }
+    },
+    "123" : {
+
+    },
+    "Category: %@" : {
+
+    },
+    "Date: %@" : {
+
+    },
+    "Difficulty: %@" : {
+
+    },
+    "Results" : {
+
+    },
+    "Score: %d" : {
+
+    },
+    "Type: %@" : {
+
+    }
+  },
+  "version" : "1.0"
+}
